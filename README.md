@@ -7,8 +7,8 @@ Private Repo link: [https://classroom.github.com/a/dhefyS56](https://classroom.g
 
 
 ## API Links
-All data: [http://openapi.programming-hero.com/api/ai/tools](http://openapi.programming-hero.com/api/ai/tools)
+All data: [https://openapi.programming-hero.com/api/ai/tools](https://openapi.programming-hero.com/api/ai/tools)
 
-Single data details: http://openapi.programming-hero.com/api/ai/tool/${id}
+Single data details: https://openapi.programming-hero.com/api/ai/tool/${id}
 
-Single data Example: http://openapi.programming-hero.com/api/ai/tool/01
+Single data Example: https://openapi.programming-hero.com/api/ai/tool/01
